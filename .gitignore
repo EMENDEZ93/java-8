@@ -12,3 +12,7 @@ LambdaExpressions/\.project
 *.lock
 
 *.properties
+
+FunctionalInterfaces/\.classpath
+
+FunctionalInterfaces/\.project
