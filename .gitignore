@@ -1,0 +1,14 @@
+
+LambdaExpressions/\.classpath
+
+*.class
+
+*.prefs
+
+LambdaExpressions/\.project
+
+*.bin
+
+*.lock
+
+*.properties
